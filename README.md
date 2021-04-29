@@ -1,0 +1,11 @@
+## ライブラリ・言語
+- frontend
+  - preact
+  - esbuild
+  - graphql
+  - @urql/preact
+- backend
+  - go
+  - graphql-go/graphql
+- database
+  - MariaDB
